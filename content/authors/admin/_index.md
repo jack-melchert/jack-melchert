@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ongoing PhD in Artificial Intelligence
+  - course: Ongoing PhD in Electrical Engineering
     institution: Stanford University
     year: Expected 2025
   - course: B.S. in Electrical and Computer Engineering and Computer Science
@@ -65,4 +65,4 @@ highlight_name: true
 
 My name is Jackson Melchert and I am current a PhD Student in the at {{< staticref "https://stanfordaccelerate.github.io/" "newtab" >}}Stanford Accelerate Lab{{< /staticref >}}  at Stanford University. My research is currently focused on how to generate an optimal coarse-grained reconfigurable array processing element architecture for a given application domain. I am developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. I am also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. I am broadly interested in optimizing configurable hardware to approach the performance and efficiency of application specific accelerators.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/melchert_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
